@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Pooh, 
+- 🔭 I’m currently building a Spring Boot web application for simple microwave-only food menus  
+- 🌱 I’m working with Java, Spring Boot, REST APIs
+
 <!--
 **thanetpooh/thanetpooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
