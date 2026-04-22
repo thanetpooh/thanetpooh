@@ -14,6 +14,9 @@ I enjoy building web applications and learning new things in software developmen
 **Database**
 - PostgreSQL
 
+**Tools**
+- Docker
+
 ## Projects
 
 | Project | Description |
