@@ -1,20 +1,25 @@
-## Hi there 👋
+# Hi, I'm Phu (Thanet Jinseekhong) 👋
 
-My name is Pooh, 
-- 🔭 I’m currently building a Spring Boot web application for simple microwave-only food menus  
-- 🌱 I’m working with Java, Spring Boot, REST APIs
+Computer Science graduate from Kasetsart University (Bangkhen).
+I enjoy building web applications and learning new things in software development.
 
-<!--
-**thanetpooh/thanetpooh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Tech Stack
 
-Here are some ideas to get you started:
+**Languages**
+- JavaScript, TypeScript, Java, HTML, CSS, SQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frameworks & Libraries**
+- React, Next.js, Vue, Nuxt, Node.js, Express.js, Spring Boot
+
+**Database**
+- PostgreSQL
+
+## Projects
+
+| Project | Description |
+|---|---|
+| [Health-Me](https://github.com/thanetpooh/health-me) | A web app for finding recipes based on ingredients you already have |
+
+## Contact
+
+📧 thanetjinseekhong@gmail.com
