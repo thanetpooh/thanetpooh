@@ -12,10 +12,13 @@ I enjoy building web applications and learning new things in software developmen
 - React, Next.js, Vue, Nuxt, Node.js, Express.js, Spring Boot
 
 **Database**
-- PostgreSQL
+- PostgreSQL,mongoDB
 
 **Tools**
 - Docker
+- Git
+- Redis
+- Postman
 
 ## Projects
 
