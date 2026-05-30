@@ -24,9 +24,8 @@ Passionate about full-stack web development, system design, and building scalabl
 
 | Project | Description |
 |---|---|
-| [Health-Me](https://github.com/thanetpooh/health-me) | A web app for finding recipes based on ingredients you already have. ([Demo]([https://your-demo-url.com](https://health-me-mh9m.vercel.app/))) |
-| [Yor-Hai](https://github.com/thanetpooh/yor-hai) | A web app for URL shortening service with a QR code generator. ([Demo](https://yor-hai.vercel.app/)) |
-
+| [Health-Me](https://github.com/thanetpooh/health-me) | Recipe recommendation platform that suggests meals based on available ingredients. [Live Demo](https://health-me-mh9m.vercel.app/) |
+| [Yor-Hai](https://github.com/thanetpooh/yor-hai) | URL shortening service with QR code generation. [Live Demo](https://yor-hai.vercel.app/) |
 
 ## Contact
 
